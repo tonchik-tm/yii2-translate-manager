@@ -1,17 +1,17 @@
 {
-    "name": "lajax/yii2-translate-manager",
+    "name": "tonchik-tm/yii2-translate-manager",
     "description": "Online Translate",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "translate", "language", "module"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/lajax/yii2-translate-manager/issues?state=open",
-		"source": "https://github.com/lajax/yii2-translate-manager"
+        "issues": "https://github.com/tonchik-tm/yii2-translate-manager/issues?state=open",
+		"source": "https://github.com/tonchik-tm/yii2-translate-manager"
 	},
     "authors": [
         {
-            "name": "Lajos Molnar",
-            "email": "lajax.m@gmail.com"
+            "name": "Anton Nikolaev",
+            "email": "tonchik@tonchik.net"
         }
     ],
     "require": {
